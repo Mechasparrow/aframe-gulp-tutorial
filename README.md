@@ -1,5 +1,15 @@
 # Welcome to the A-frame Gulp.js Tutorial
 
+# Running the tutorial
+
+```
+npm install gulp-cli -g
+npm install
+
+gulp
+```
+
+Server runs on ```http://localhost:8080```
 
 # Getting Started
 
