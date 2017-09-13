@@ -5,10 +5,15 @@
 
 First we are going to install gulp and the helper libraries for it.
 
-Install Gulp.js
+Create a Node.Js
+
+``` npm init ```
+
+This will create a ``` package.json``` file
+
+Install Gulp.js  
 
 ```
 npm install gulp-cli -g
 npm install gulp -D
 ```
-Create the gulpfile
